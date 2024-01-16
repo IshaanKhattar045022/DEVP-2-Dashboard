@@ -1,5 +1,5 @@
- pandas 
- dash
+pandas 
+dash
 plotly
 socket
 random
